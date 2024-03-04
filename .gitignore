@@ -1,1 +1,4 @@
 ﻿out
+node_modules
+output-email.txt
+output-print.txt
